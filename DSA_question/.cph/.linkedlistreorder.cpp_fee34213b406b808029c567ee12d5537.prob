@@ -1,0 +1,1 @@
+{"name":"Local: linkedlistreorder","url":"c:\\Users\\ankes\\Desktop\\practice\\DSA_question\\linkedlistreorder.cpp","tests":[{"id":1768234495304,"input":"5\n1 2 3 4 5\n","output":"1 5 2 4 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ankes\\Desktop\\practice\\DSA_question\\linkedlistreorder.cpp","group":"local","local":true}
