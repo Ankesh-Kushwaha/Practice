@@ -1,0 +1,1 @@
+{"name":"Local: searchinTree","url":"c:\\Users\\ankes\\Desktop\\practice\\DSA_question\\searchinTree.cpp","tests":[{"id":1769455815679,"input":"8\n8\n10 5 30 4 8 -1 40 1","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ankes\\Desktop\\practice\\DSA_question\\searchinTree.cpp","group":"local","local":true}

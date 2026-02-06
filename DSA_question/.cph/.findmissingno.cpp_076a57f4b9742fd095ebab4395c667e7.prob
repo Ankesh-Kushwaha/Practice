@@ -1,0 +1,1 @@
+{"name":"Local: findmissingno","url":"c:\\Users\\ankes\\Desktop\\practice\\DSA_question\\findmissingno.cpp","tests":[{"id":1769452700501,"input":"6\n1 2 4 6 3 8","output":"5 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ankes\\Desktop\\practice\\DSA_question\\findmissingno.cpp","group":"local","local":true}
